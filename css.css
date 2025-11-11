@@ -156,8 +156,7 @@ body {
 }
 
 /* ==================Post 1===================== */
-.card-1 {
+.card {
     background-color: aliceblue;
     padding: 20px;
-    display: flex;
 }
